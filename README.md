@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Junior Mrts
+## Olá! Eu sou o Junior Mrts
 
 - 🔭 Hoje trabalho com font-end
 - 🌱 Estudando HTTP
