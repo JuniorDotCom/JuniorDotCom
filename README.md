@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Junior Mrts
 
-- 🔭 Hoje trabalho com font-end
+- 🔭 Hoje trabalho com front-end
 - 🌱 Estudando HTTP
 - 😄 Pronouns: ele/dele
 
