@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Junior Mrts
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando HTTP
+- 🌱 Estudando Python
 - 😄 Pronouns: ele/dele
 
 <div>
